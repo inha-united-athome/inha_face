@@ -1,0 +1,12 @@
+# Goal
+string person_name
+int32 num_images
+int32 timeout_ms
+---
+# Result
+bool success
+string saved_dir
+string message
+---
+# Feedback
+string state

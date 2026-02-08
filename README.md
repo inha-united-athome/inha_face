@@ -58,11 +58,9 @@ ros2 run thor_whisper whisper_node
 ros2 run thor_whisper tts_node
 ```
 
-Interfaces
+Interfaces ( **To Be Continue**)
 ---
 **Topics**
-
-To be Continue
 | Name | Type | Description |
 |------|------|-------------|
 | `<topic_name>` | `<msg_type>` | `<what it does>` |

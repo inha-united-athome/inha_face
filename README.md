@@ -54,8 +54,7 @@ Usage
 ---
 ```bash
 # Run a node
-ros2 run thor_whisper whisper_node
-ros2 run thor_whisper tts_node
+ros2 run face_landmark face_node 
 ```
 
 Interfaces ( **To Be Continue**)

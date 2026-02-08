@@ -53,16 +53,16 @@ source install/setup.bash
 Usage
 ---
 ```bash
-# Launch (example)
-ros2 launch inha_face <LAUNCH_FILE>.launch.py
-
-# Run a node (example)
-ros2 run inha_face <NODE_EXECUTABLE>
+# Run a node
+ros2 run thor_whisper whisper_node
+ros2 run thor_whisper tts_node
 ```
 
 Interfaces
 ---
 **Topics**
+
+To be Continue
 | Name | Type | Description |
 |------|------|-------------|
 | `<topic_name>` | `<msg_type>` | `<what it does>` |
